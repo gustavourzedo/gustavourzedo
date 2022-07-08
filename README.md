@@ -1,7 +1,9 @@
-### Olá, sou o Gustavo! 👋
+## Olá, sou o <a href="https://portfolio-gustavourzedo.vercel.app/" target="_blank"> Gustavo</a>! 👋
 
-- 🔭 Hoje eu trabalho como DevOps.
-- 🌱 Estou estudando tecnologias de Front-End.
+- 🧾 Hoje eu trabalho como DevOps.
+- 💻 Estou estudando para me tornar FullStack.
+
+### Veja meu <a href="https://portfolio-gustavourzedo.vercel.app/" target="_blank"> Portfólio</a>!
 
 <a href="https://github.com/gustavourzedo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavourzedo&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true"/>
@@ -21,10 +23,11 @@
 ##
 
 <div> 
-  <a href="https://wa.me/5534988553386" target"_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="https://wa.me/5534988553386" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/gustavourzedo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:gustavourzedo18@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/gustavo_urzed/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://portfolio-gustavourzedo.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
 
 ![Snake animation](https://github.com/gustavourzedo/gustavourzedo/blob/output/github-contribution-grid-snake.svg)
 
