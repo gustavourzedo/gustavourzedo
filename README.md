@@ -1,13 +1,13 @@
-## Olá, sou o <a href="https://portfolio-gustavourzedo.vercel.app/" target="_blank"> Gustavo</a>! 👋
+# Olá, sou o <a href="https://portfolio-gustavourzedo.vercel.app/" target="_blank"> Gustavo</a>! 👋
 
 - 🧾 Hoje eu trabalho como DevOps.
 - 💻 Estou estudando para me tornar FullStack.
 
-### Veja meu <a href="https://portfolio-gustavourzedo.vercel.app/" target="_blank"> Portfólio</a>!
+## Veja meu <a href="https://portfolio-gustavourzedo.vercel.app/" target="_blank"> Portfólio</a>!
 
 <a href="https://github.com/gustavourzedo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavourzedo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavourzedo&layout=compact&langs_count=7&theme=algolia "/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavourzedo&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavourzedo&layout=compact&langs_count=7&theme=yeblu"/>
 </div>
 
 <div style="display: inline_block"><br>
