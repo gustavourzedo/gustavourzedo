@@ -1,7 +1,7 @@
 # Olá, sou o <a href="https://portfolio-gustavourzedo.vercel.app/" target="_blank"> Gustavo</a>! 👋
 
-- 🧾 Hoje eu trabalho como DevOps.
-- 💻 Estou estudando para me tornar FullStack.
+- 🧾 Especialista em Cloud.
+- 💻 Apaixonado pela Metológia de DevOps e Full Cycle.
 
 ## Veja meu <a href="https://portfolio-gustavourzedo.vercel.app/" target="_blank"> Portfólio</a>!
 
