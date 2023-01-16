@@ -1,7 +1,7 @@
 # Olá, sou o <a href="https://portfolio-gustavourzedo.vercel.app/" target="_blank"> Gustavo</a>! 👋
 
 - 🧾 Especialista em Cloud.
-- 💻 Apaixonado pela Metológia de DevOps e Full Cycle.
+- 💻 Apaixonado pela cultura DevOps.
 
 ## Veja meu <a href="https://portfolio-gustavourzedo.vercel.app/" target="_blank"> Portfólio</a>!
 
